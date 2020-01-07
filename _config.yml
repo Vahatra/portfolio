@@ -4,5 +4,5 @@ description: > # your text below (remove <br> elements if you don't need line br
   First description 
   <br><br>
   <a href="https://www.linkedin.com/in/vahatra-harilalanjatovo/">View My LinkedIn Profile</a> 
-  
-theme: minima
+show_downloads: false
+theme: jekyll-theme-minimal
