@@ -7,6 +7,8 @@ See the program [page](https://www.udacity.com/course/cloud-developer-nanodegree
 
 <img src="images/cert_cl.png?raw=true"/>
 
+[confirm](https://confirm.udacity.com/LRGKFCP)
+
 ### Projects (on GitHub):
 - ### PROJECT 1: Deploy Static Website on AWS
 - ### [PROJECT 2: Udagram: your own Instagram on AWS](https://github.com/Vahatra/image-filter)
@@ -22,6 +24,8 @@ Essential foundations of AI: the programming tools (**Python**, **NumPy**, **PyT
 See the program [page](https://www.udacity.com/course/ai-programming-python-nanodegree--nd089) for more information.
 
 <img src="images/cert_ai.png?raw=true"/>
+
+[confirm](https://confirm.udacity.com/NR3AH47T)
 
 ### Project (on GitHub):
 - ### [PROJECT: Image Classifier](https://github.com/Vahatra/image-classifier)
