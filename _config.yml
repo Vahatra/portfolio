@@ -1,5 +1,5 @@
 title: Vahatra Harilalanjatovo # your name (or website title) here
-logo: "/images/me.png?raw=true" # your photo (or logo) here
+logo: "/images/me_2.png?raw=true" # your photo (or logo) here
 description:
   > # your text below (remove <br> elements if you don't need line breaks)
   A Full Stack Developer with experience in Ethereum based Blockchain, Web development with Django/React and Cloud development on AWS platform.
@@ -7,6 +7,7 @@ description:
   <a href="https://www.linkedin.com/in/vahatra-harilalanjatovo/" target="_blank">View My LinkedIn Profile</a> 
   <br><br>
   View My Resume <a href="resume-en.pdf" target="_blank">EN</a> - <a href="resume-fr.pdf" target="_blank">FR</a> 
+  <br><br>
   Email: h.vahatra.d@gmail.com
 show_downloads: false
 theme: jekyll-theme-minimal
