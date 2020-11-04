@@ -2,11 +2,14 @@ title: Vahatra Harilalanjatovo # your name (or website title) here
 logo: "/images/me_2.png?raw=true" # your photo (or logo) here
 description:
   > # your text below (remove <br> elements if you don't need line breaks)
-  A Blockchain Developer with experience in Ethereum based Blockchain, Web development with Django/React and Cloud development on AWS platform.
+  A Blockchain Developer with experience in Ethereum based Blockchain, Web/DApp development with Django/React and Cloud development on AWS platform.
   <br><br>
-  <a href="https://www.linkedin.com/in/vahatra-harilalanjatovo/" target="_blank">View My LinkedIn Profile</a> 
+  <a href="https://github.com/Vahatra" target="_blank">View my GitHub profile</a> 
   <br><br>
-  View My Resume <a href="resume-en.pdf" target="_blank">EN</a> - <a href="resume-fr.pdf" target="_blank">FR</a> 
+  <br><br>
+  <a href="https://www.linkedin.com/in/vahatra-harilalanjatovo/" target="_blank">View my LinkedIn profile</a> 
+  <br><br>
+  View my resume <a href="resume-en.pdf" target="_blank">EN</a> - <a href="resume-fr.pdf" target="_blank">FR</a> 
   <br><br>
   Email: h.vahatra.d@gmail.com
 show_downloads: false
