@@ -1,6 +1,7 @@
 title: Vahatra Harilalanjatovo # your name (or website title) here
 logo: "/images/me_2.png?raw=true" # your photo (or logo) here
 description:
+  > # your text below (remove <br> elements if you don't need line breaks)
   A software engineer with experience in Ethereum based blockchain, Web/DApp development with Django/React and Cloud development on AWS platform.
   <br><br>
   <a href="https://github.com/Vahatra" target="_blank">GitHub</a> - <a href="https://www.linkedin.com/in/vahatra-harilalanjatovo/" target="_blank">LinkedIn</a> 
