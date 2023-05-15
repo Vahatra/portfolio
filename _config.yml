@@ -1,0 +1,11 @@
+title: Vahatra Harilalanjatovo # your name (or website title) here
+logo: "/images/me_2.png?raw=true" # your photo (or logo) here
+description:
+  > # your text below (remove <br> elements if you don't need line breaks)
+  Resume: <a href="Vahatra_Harilalanjatovo_Resume_EN.pdf" target="_blank">EN</a> - <a href="Vahatra_Harilalanjatovo_Resume_FR.pdf" target="_blank">FR</a> 
+  <br>
+  Email: <a href="mailto:h.vahatra.d@gmail.com" target="_blank">h.vahatra.d@gmail.com</a>
+  <br>
+  <a href="https://github.com/Vahatra" target="_blank">GitHub</a> - <a href="https://www.linkedin.com/in/vahatra-harilalanjatovo/" target="_blank">LinkedIn</a>
+show_downloads: false
+theme: jekyll-theme-minimal
