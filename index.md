@@ -1,4 +1,5 @@
-A software engineer with experience in backend development with Python and Go, as well as expertise in Ethereum-based blockchain and cloud development on AWS.
+Backend Engineer with 5 years of hands-on expertise in Python and Go,
+specializing in designing and developing microservices and APIs.
 
 # Coursera Specialization: Blockchain
 
